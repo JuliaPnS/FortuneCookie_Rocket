@@ -1,3 +1,6 @@
+## Project
+This is a application that have a random motivational phases, like a chinese fortune cookie :)
+
 ## Technologies
 - HTML
 - JavaScript
